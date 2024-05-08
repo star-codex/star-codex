@@ -1,17 +1,15 @@
 # 👨‍💻 Welcome to My GitHub Profile! 👋
 
-Hey there! I'm Erin, a passionate backend developer with a keen interest in networking, cryptography, and retro computing. I'm on a journey to master various technologies, including AI, LLM, and more. I thrive on automating tasks and making processes more efficient. Oh, and did I mention how much I love working with SvelteKit?
-
 ## 🚀 About Me
 
-- 👨‍💻 Backend Developer
+- 👨‍💻 Backend Developer by preference
 - 🌐 Networking and Cryptography Enthusiast
 - 🕹️ Retro Computing Fan (think IBM 360 series and C/Cobol/Fortran)
 - 🎓 Proud Alumnus of 4 Educational Institutes (but I like learning by myself the most!)
 
 ## 🛠️ Tech Stack
 
-- 💻 Backend: Node.js, SvelteKit, Docker
+- 💻 Backend: Node.js, Next.js, SvelteKit, Docker, MongoDB, Firebase, Clerk
 - 🚀 Frontend: Svelte, Tailwind, DaisyUI
 - 🧠 AI/ML: Microsoft Azure (custom vision, etc)
 - 🧰 Tools: VSCode, WSL2, Obsidian
