@@ -1,25 +1,22 @@
-# 👨‍💻 Welcome to My GitHub Profile! 👋
+# "Happy is he who can trace effects to their causes." - Virgil
 
-## 🚀 About Me
+## // ERIN
 
-- 👨‍💻 Backend Developer by preference
-- 🌐 Networking and Cryptography Enthusiast
-- 🕹️ Retro Computing Fan (think IBM 360 series and C/Cobol/Fortran)
-- 🎓 Proud Alumnus of 4 Educational Institutes (but I like learning by myself the most!)
+- 👨‍💻 Backend Developer using Linux
+- ⚙️ Agile, TDD, CI/CD
+- 🌐 Networking, data, automation, cryptography
+- 🎓 Educated, interned, self-taught
+- 🟢 Open to work
 
-## 🛠️ Tech Stack
+## // TECH STACK
 
-- 💻 Backend: Node.js, Next.js, SvelteKit, Docker, MongoDB, Firebase, Clerk
-- 🚀 Frontend: Svelte, Tailwind, DaisyUI
-- 🧠 AI/ML: Microsoft Azure (custom vision, etc)
-- 🧰 Tools: VSCode, WSL2, Obsidian
+- 💻 Backend: Python, Node, Next, SvelteKit, Docker, Jest ...
+- 🚀 Frontend: Svelte, Tailwind, React, DaisyUI, ...
+- 🧠 AI/ML: Microsoft Azure
+- 🧰 Toolbox: Pulsar, VS Code, WSL2, Obsidian, and a lot of music mixes
 
-## 📚 Learning Journey
+## // IN PROGRESS
 
-Now I've got some basic knowledge under my belt, I want to focus on a stripped down and efficient approach to web development as what sets me apart. I am disillusioned with modern bloat, and a classic approach that takes hardware optimisation and code efficiency into account is my goal. Let's make smooth software again that doesn't eat resources endlessly.
-
-## 🤝 Let's Connect
-
-Feel free to reach out if you share similar interests or if you have any questions.
-
-Thanks for stopping by! ✨
+- 🐍 Python CLI tools
+- 🌐 Portfolio website
+- 📝 Developer blog
