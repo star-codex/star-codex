@@ -1,5 +1,3 @@
-# "Happy is he who can trace effects to their causes." - Virgil
-
 ## // ERIN
 
 - 👨‍💻 Backend Developer using Linux
