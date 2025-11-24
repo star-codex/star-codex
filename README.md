@@ -8,17 +8,7 @@
 
 🧰 Building tools that help people vanish, reset, and defend themselves.
 
-## // TOOLKIT
-
-Python • Node • SvelteKit • Docker
-
-Svelte • Tailwind • React
-
-Networking • Identity cleanup • Threat-aware automation
-
-Pulsar • VS Code • WSL2 • Obsidian
-
-## // ACTIVE MISSIONS
+## // PROJECTS
 
 🐍 CLI tools for digital exposure mapping
 
