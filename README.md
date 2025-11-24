@@ -1,20 +1,27 @@
-## // ERIN
+##// ERIN
 
-- 👨‍💻 Backend Developer using Linux
-- ⚙️ Agile, TDD, CI/CD
-- 🌐 Networking, data, automation, cryptography
-- 🎓 Educated, interned, self-taught
-- 🟢 Open to work
+🔍 I tear down broken digital identities and rebuild them clean.
 
-## // TECH STACK
+🔒 I protect people who’ve been exposed, overwhelmed, or targeted online.
 
-- 💻 Backend: Python, Node, Next, SvelteKit, Docker, Jest ...
-- 🚀 Frontend: Svelte, Tailwind, React, DaisyUI, ...
-- 🧠 AI/ML: Microsoft Azure
-- 🧰 Toolbox: Pulsar, VS Code, WSL2, Obsidian, and a lot of music mixes
+⚙️ Backend engineer fluent in automation, privacy tech, and cryptography.
 
-## // IN PROGRESS
+🧰 Building tools that help people vanish, reset, and defend themselves.
 
-- 🐍 Python CLI tools
-- 🌐 Portfolio website
-- 📝 Developer blog
+##// TOOLKIT
+
+Python • Node • SvelteKit • Docker
+
+Svelte • Tailwind • React
+
+Networking • Identity cleanup • Threat-aware automation
+
+Pulsar • VS Code • WSL2 • Obsidian
+
+##// ACTIVE MISSIONS
+
+🐍 CLI tools for digital exposure mapping
+
+🛰️ Automated, intelligent client workflows
+
+📝 Writing about survival-level cybersecurity for real humans
