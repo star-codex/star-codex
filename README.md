@@ -1,4 +1,4 @@
-##// ERIN
+## // ERIN
 
 🔍 I tear down broken digital identities and rebuild them clean.
 
@@ -8,7 +8,7 @@
 
 🧰 Building tools that help people vanish, reset, and defend themselves.
 
-##// TOOLKIT
+## // TOOLKIT
 
 Python • Node • SvelteKit • Docker
 
@@ -18,7 +18,7 @@ Networking • Identity cleanup • Threat-aware automation
 
 Pulsar • VS Code • WSL2 • Obsidian
 
-##// ACTIVE MISSIONS
+## // ACTIVE MISSIONS
 
 🐍 CLI tools for digital exposure mapping
 
